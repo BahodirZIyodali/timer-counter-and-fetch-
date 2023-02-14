@@ -16,6 +16,7 @@ function App() {
     <Route path="/post" element={<Post />} />
     <Route path="/counter2" element={<UseReducer/>} />
   </Routes>
+
      </>
   )
 }
