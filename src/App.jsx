@@ -17,7 +17,7 @@ function App() {
     <Route path="/counter2" element={<UseReducer/>} />
   </Routes>
 
-     </>
+    </>
   )
 }
 
